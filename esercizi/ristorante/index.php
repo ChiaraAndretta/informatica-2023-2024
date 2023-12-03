@@ -26,7 +26,7 @@ buona pizza grande pizza
  <body>
  
 <h1 style="background-color: bisque; text-align: center;color: coral; " > MENÙ PIZZE</h1>
-    <table style="width: 616px; background-color: coral;color: rgb(182, 60, 60) " >
+<table style="width: 616px; background-color: coral;color: rgb(182, 60, 60) " >
 
   <thead>
     <tr style=" color:bisque">
